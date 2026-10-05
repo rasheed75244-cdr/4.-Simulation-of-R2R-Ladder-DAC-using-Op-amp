@@ -23,9 +23,6 @@ To Simulate R2R-Ladder DAC using Op-amp
 
 
 
-  **Output waveform**
-
-
 
 **RESULT:**
 Thus a  Simulation of  R2R-Ladder DAC using Op-amp IC 741 was done.
